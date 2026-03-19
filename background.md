@@ -1,0 +1,1 @@
+The MIT License is a permissive software license originating at the Massachusetts Institute of Technology (MIT) in the late 1980s. It imposes minimal restrictions, allowing reuse, modification, distribution, and commercial use, provided that the original copyright notice and license terms are included in all copies. The license includes a disclaimer of warranty.
